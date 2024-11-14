@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer from Bangladesh.</h3>
 <img align='right' alt='logo' width='300' src='https://media.tenor.com/4D3DhzVOu-oAAAAC/press-any-key-any-key.gif'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhmahmudulhasanshium&label=Profile%20views&color=0e75b6&style=flat" alt="view-counter" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamShium&label=Profile%20views&color=0ee5b6&style=flat" alt="view-counter" /> </p>
 
 <h3 align='left'>About</h3>
 
